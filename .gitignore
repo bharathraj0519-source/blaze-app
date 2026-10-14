@@ -12,6 +12,7 @@ npm-debug.log*
 
 # Build output
 client/dist/
+dist/
 
 # SQLite databases
 *.db

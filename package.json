@@ -5,7 +5,7 @@
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
-    "build": "npm --prefix client run build",
+    "build": "node build.cjs",
     "server": "node server/server.js"
   },
   "keywords": [
